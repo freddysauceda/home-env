@@ -45,6 +45,7 @@
     # ".screenrc".source = dotfiles/screenrc;
     ".config/nvim/init.vim".source = dotfiles/init.vim;
     ".gitconfig".source = dotfiles/gitconfig;
+    ".config/alacritty/alacritty.toml".source = dotfiles/alacritty.toml;
    
 
     # # You can also set the file content immediately.
