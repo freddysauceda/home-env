@@ -44,6 +44,8 @@
     # # symlink to the Nix store copy.
     # ".screenrc".source = dotfiles/screenrc;
     ".config/nvim/init.vim".source = dotfiles/init.vim;
+    ".gitconfig".source = dotfiles/gitconfig;
+   
 
     # # You can also set the file content immediately.
     # ".gradle/gradle.properties".text = ''
@@ -51,6 +53,7 @@
     #   org.gradle.daemon.idletimeout=3600000
     # '';
   };
+
 
   # Home Manager can also manage your environment variables through
   # 'home.sessionVariables'. These will be explicitly sourced when using a
