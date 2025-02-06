@@ -1,0 +1,15 @@
+Windows sucks
+
+Install winget first
+https://github.com/microsoft/winget-cli
+
+Powershell sucks
+Get the latest
+https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5#install-powershell-using-winget-recommended
+
+Make sure to open the latest one as an admin
+
+Get this
+https://ohmyposh.dev/docs/installation/windows
+
+
