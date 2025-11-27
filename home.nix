@@ -46,6 +46,7 @@
     ".config/nvim/init.vim".source = dotfiles/init.vim;
     ".gitconfig".source = dotfiles/gitconfig;
     ".config/kitty/kitty.conf".source = dotfiles/kitty/kitty.conf;
+    ".zshrc".source = dotfiles/zsh/.zshrc;
    
 
     # # You can also set the file content immediately.
@@ -73,7 +74,7 @@
   #  /etc/profiles/per-user/freddy/etc/profile.d/hm-session-vars.sh
   #
   home.sessionVariables = {
-    # EDITOR = "emacs";
+    EDITOR = "vi";
   };
 
   # Let Home Manager install and manage itself.
